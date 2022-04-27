@@ -1,5 +1,5 @@
 import { Container, Image, Col, Card, Row, Media } from "react-bootstrap";
-import Menu from "../components/Menu";
+import Menu from "components/Menu";
 
 export default function Home() {
   return (
